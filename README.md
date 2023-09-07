@@ -42,7 +42,7 @@
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Parthsanghavi31/Model-Assisted-6D-Pose-Estimation-via-VFH-and-Point-to-Point-ICP-.git
+git clone https://github.com/Parthsanghavi31/Model-Assisted-6D-Pose-Estimation-via-VFH-and-Point-to-Plane-ICP.git
 
 # Navigate to the project directory
 cd Model-Assisted-6D-Pose-Estimation-via-VFH-and-Point-to-Point-ICP-
