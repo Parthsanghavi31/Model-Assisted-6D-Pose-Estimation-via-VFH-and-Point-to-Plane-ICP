@@ -1,9 +1,4 @@
-/**
- * Copyright (C) Ghost Robotics - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Avik De <avik@ghostrobotics.io>
- */
+
 #include "rs_camera.hpp"
 #define LOGURU_WITH_STREAMS 1
 #include <loguru.hpp>

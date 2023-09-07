@@ -1,9 +1,3 @@
-/**
- * Copyright (C) Ghost Robotics - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Avik De <avik@ghostrobotics.io>
- */
 #include "camera_task.hpp"
 #include <opencv2/imgproc.hpp>
 
