@@ -45,7 +45,6 @@
 #include <pcl/kdtree/kdtree_flann.h>
 #include <pcl/features/normal_3d.h>
 
-// Eigen headers (might be already included with PCL, but just in case)
 #define EIGEN_DONT_VECTORIZE 
 #define EIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT
 #include <Eigen/Dense>
@@ -109,8 +108,6 @@ boost::shared_ptr<pcl::visualization::PCLVisualizer> createVisualizer(
 
     return viewer;
 }
-
-
 
 // RANSAC-related structures and functions
 
